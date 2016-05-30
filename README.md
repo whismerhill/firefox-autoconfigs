@@ -1,6 +1,6 @@
 # Whis Firefox autoconfig
 
-Quick job to disable some of the things I don't like in firefox. Thanks to Clikz for the initial project this is based on.
+Quick job to disable some of the things I don't like in firefox. Thanks to Cliqz for the initial project this is based on.
 
 * sending messages to mozilla servers
 * inability to run unsigned extensions ...
