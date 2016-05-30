@@ -1,11 +1,9 @@
-# CLIQZ Firefox autoconfig
+# Whis Firefox autoconfig
 
-Testing Firefox extensions on real browsers can be really hard. Browsers by default are not set up to run in continious intergration environements. Luckly Firefox provides easy way to change in default setting that will prevent situations like:
+Quick job to disable some of the things I don't like in firefox. Thanks to Clikz for the initial project this is based on.
 
-* auto updates
-* "default browser" popups
 * sending messages to mozilla servers
-* etc.
+* inability to run unsigned extensions ...
 
 The mechanism to put those settings is called 'autoconfig'.
 
